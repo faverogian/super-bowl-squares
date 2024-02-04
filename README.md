@@ -16,4 +16,4 @@ Given the randomness and variability of sporting event outcomes, Monte Carlo sim
 Typically in such contests, participants have the ability to ``buy-in'' at a fixed dollar amount per square up to a certain number of squares. We wish to explore the best strategy for a participant to follow to maximize their chances at winning.
 
 #### TL;DR
-We run Monte Carlo simulations over the prospects of buying 1 to 10 squares in a Super Bowl Squares contest. We find that, surprisingly, one can expect to break even irrespective of the number of squares they buy if they play enough years in a row. To maximize the chances of profiting, participants should opt to choose 10 squares, as long run earnings are maximized doing so.
+We run Monte Carlo simulations over the prospects of buying 1 to 10 squares in a Super Bowl Squares contest. We find that one can expect to break even irrespective of the number of squares they buy if they play enough years in a row.
